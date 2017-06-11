@@ -113,11 +113,12 @@ body {
   width: 100%;
   position: relative;
   background: url(../img/back.jpg) no-repeat center center fixed;
+  text-shadow: 2px 2px 25px #000000;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  color: #cccccc;
+  color: #dddddd;
 }
 
 /* About */
